@@ -1,3 +1,3 @@
 ### Vítor Hugo 
 
-![Vítor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorDev879&show_icons=true&theme=radical)
+![Vítor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorDev879&show_icons=true&theme=dracula)
